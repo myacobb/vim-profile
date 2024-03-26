@@ -21,3 +21,8 @@ Run the plugin installer.
 ```console
 :PluginInstall
 ```
+
+## Replace vimrc
+```console
+cp vimrc.jc ~/.vimrc
+```
